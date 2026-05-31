@@ -1,0 +1,16 @@
+# anki-deck-generator/apps/generator-app/config.yaml
+
+anki_models:
+  cloze_spanish_standard:
+    model_id: 876543210
+    model_name: "CLOZE CARD SPANISH MULTI STRUCTURE"
+    fields: ["main_topic", "cloze_test", "translation", "hint", "extra"]
+    template_dir: "apps/generator-app/templates"
+    template_name: "cloze_card"
+    is_cloze: true
+
+
+source_mappings:
+  spanish:
+    model_key: "cloze_spanish_standard"
+    output_filename: "Spanisch_Pareto_System.apkg"

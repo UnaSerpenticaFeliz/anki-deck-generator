@@ -1,0 +1,31 @@
+main_topic;cloze_test;translation;hint;extra
+Genitiv bei Eigennamen;Es el libro {{c1::de}} Carlos.;Das ist Carlos' Buch.;Nutze die reine Präposition für von (de) vor dem Eigennamen. Es gibt kein Besitz-S im Spanischen.;Da im Spanischen vor Vornamen kein Artikel steht, gibt es hier auch nichts zu verschmelzen.
+Genitiv bei Eigennamen;¿Dónde está el coche {{c1::de}} María?;Wo ist Marias Auto?;Wende die lineare Besitzstruktur an: Das Auto von Maria. Setze die reine Präposition (de) ein.;
+Genitiv bei Eigennamen;Es el gato {{c1::de}} Sofía.;Das ist Sofias Katze.;Nutze die reine Präposition (de) vor dem weiblichen Eigennamen.;Das Wort gato ist maskulin, richtet sich aber nach der Katze, nicht nach Sofia.
+Genitiv bei Ländern und Städten;Las calles {{c1::de}} Hamburgo son grandes.;Die Straßen Hamburgs sind groß.;Ersetze das deutsche Genitiv-S durch die spanische Von-Struktur (de).;
+Genitiv bei Eigennamen;Es la casa {{c1::de}} Juan.;Das ist Juans Haus.;Bilde den Besitz starr von hinten nach vorne mit der Präposition (de).;
+Genitiv Verschmelzung del;El coche {{c1::del}} hombre es rojo.;Das Auto des Mannes ist rot.;Pflichtverschmelzung beachten: Wenn die Präposition de auf den männlichen Artikel el trifft, wird daraus zwingend del.;Die Formel lautet: de + el = del. Bei weiblichen oder Pluralformen passiert das nicht.
+Genitiv Verschmelzung del;Es el libro {{c1::del}} profesor.;Das ist das Buch des Lehrers.;Nutze die Pflichtverschmelzung (del) für von dem vor dem maskulinen Nomen profesor.;
+Genitiv Verschmelzung del;El perro {{c1::del}} niño es pequeño.;Der Hund des Jungen ist klein.;Bilde den Besitz von dem Jungen. Nutze die verschmolzene Form (del).;
+Genitiv Verschmelzung del;El juguete {{c1::del}} perro es nuevo.;Das Spielzeug des Hundes ist neu.;Nutze die Verschmelzung (del) vor dem maskulinen Nomen perro.;
+Genitiv Verschmelzung del;El nombre {{c1::del}} hotel es bonito.;Der Name des Hotels ist schön.;Das Nomen hotel ist maskulin laut LONERS-Regel. Nutze daher die Verschmelzung (del).;
+Genitiv ohne Verschmelzung feminin;Es la bolsa {{c1::de la}} mujer.;Das ist die Tasche der Frau.;Bei weiblichen Besitzern im Singular verschmilzt nichts. Schreibe Präposition und Artikel getrennt (de la).;
+Genitiv ohne Verschmelzung feminin;La casa {{c1::de la}} madre es grande.;Das Haus der Mutter ist groß.;Bilde den Besitz von der Mutter (de la). Madre ist biologisch weiblich.;
+Genitiv ohne Verschmelzung feminin;Es la bicicleta {{c1::de la}} amiga.;Das ist das Fahrrad der Freundin.;Schreibe Präposition und den weiblichen Artikel sauber getrennt (de la).;
+Genitiv ohne Verschmelzung feminin;La respuesta {{c1::de la}} profesora es importante.;Die Antwort der Lehrerin ist wichtig.;Bilde die Struktur von der Lehrerin ohne Verschmelzung (de la).;
+Genitiv ohne Verschmelzung feminin;La foto {{c1::de la}} ciudad es vieja.;Das Foto der Stadt ist alt.;Das Wort ciudad ist weiblich laut D-IÓ-A-Z-Regel. Nutze daher de la.;
+Genitiv im Plural maskulin;Son los libros {{c1::de los}} niños.;Das sind die Bücher der Kinder.;Im Plural findet keine Verschmelzung statt. Nutze de los für eine männliche oder gemischte Gruppe.;
+Genitiv im Plural maskulin;El coche {{c1::de los}} padres es rápido.;Das Auto der Eltern ist schnell.;Bilde die Struktur von den Eltern im Plural komplett getrennt (de los).;
+Genitiv im Plural maskulin;El juguete {{c1::de los}} perros está roto.;Das Spielzeug der Hunde ist kaputt.;Nutze die getrennte Pluralform de los vor dem maskulinen Plural perros.;
+Genitiv im Plural feminin;Es la casa {{c1::de las}} mujeres.;Das ist das Haus der Frauen.;Nutze für den rein weiblichen Plural der Besitzer die getrennte Struktur de las.;
+Genitiv Verschachtelungskette;Es el coche {{c1::del}} amigo {{c2::de}} mi hermano.;Das ist das Auto des Freundes meines Bruders.;Arbeite die Besitzkette strikt wie eine Gliederkette von hinten nach vorne ab. Erste Lücke braucht die Verschmelzung.;Wörtlich rückwärts dechiffriert: Das Auto von dem Freund von meinem Bruder. Das Spanische bleibt hier absolut linear.
+Genitiv bei Eigennamen;Es el mensaje {{c1::de}} Ana.;Das ist Anas Nachricht.;Setze die reine Präposition (de) ein, um den Besitz bei einem weiblichen Vornamen anzuzeigen.;
+Genitiv bei Eigennamen;El jardín {{c1::de}} Luis es precioso.;Der Garten von Luis ist wunderschön.;Lineare Struktur anwenden: Der Garten + de + Luis. Kein Apostroph oder Genitiv-S.;Das Wort jardín verliert im Plural seinen Akzent (jardines), behält ihn im Singular aber.
+Genitiv bei Eigennamen;Me gusta la música {{c1::de}} Pedro.;Ich mag Pedros Musik.;Nutze die reine Präposition (de) nach dem Objekt.;
+Genitiv bei Städten und Ländern;El centro {{c1::de}} Madrid es muy bonito.;Das Zentrum von Madrid ist sehr schön.;Besitzanzeige bei geografischen Eigennamen erfolgt über das einfache de.;
+Genitiv Verschmelzung del;Es la oficina {{c1::del}} director.;Das ist das Büro des Direktors.;Der Direktor ist maskulin (el director). Nutze die Pflichtverschmelzung (del).;
+Genitiv Verschmelzung del;El éxito {{c1::del}} estudiante es grande.;Der Erfolg des Studenten ist groß.;Kombiniere die Präposition mit dem maskulinen Artikel im Singular zu einem Wort (del).;
+Genitiv Verschmelzung del;La llave {{c1::del}} coche está aquí.;Der Schlüssel des Autos ist hier.;Das Auto ist maskulin (el coche). Bilde die Besitzanzeige mit der Verschmelzung.;Hier wird der Besitz eines unbelebten Gegenstands über ein anderes Objekt ausgedrückt.
+Genitiv Verschmelzung del;El precio {{c1::del}} billete es barato.;Der Preis des Tickets ist billig.;Ticket (el billete) ist maskulin. Verschmelze die Präposition und den Artikel (del).;
+Genitiv Verschmelzung del;La luz {{c1::del}} sol es clara.;Das Licht der Sonne ist hell.;Die Sonne ist im Spanischen maskulin (el sol). Daher greift die Verschmelzung (del).;
+Genitiv ohne Verschmelzung feminin;Es la idea {{c1::de la}} abuela.;Das ist die Idee der Oma.;Die Oma ist weiblich (la abuela). Setze Präposition und Artikel getrennt ein (de la).;

@@ -1,0 +1,31 @@
+main_topic;cloze_test;translation;hint;extra
+Dativ-Klarstellung maskulin;Quiero darle el libro {{c1::a él}}.;Ich will ihm (Carlos) das Buch geben.;Nutze die Klarstellung für eine männliche Person am Satzende nach der Präposition a.;Das unbetonte le im Wort darle reicht zu Gesprächsbeginn nicht aus um zu wissen wer gemeint ist.
+Dativ-Klarstellung feminin;Quiero darle el libro {{c1::a ella}}.;Ich will ihr (Maria) das Buch geben.;Nutze die Klarstellung für eine weibliche Person am Satzende nach der Präposition a.;Da darle sowohl ihm als auch ihr bedeuten kann schafft a ella absolute Klarheit.
+Dativ-Klarstellung Höflichkeit;Quiero darle el libro {{c1::a usted}}.;Ich möchte Ihnen (Sg. höflich) das Buch geben.;Nutze das Höflichkeitspronomen mit der Präposition a am Satzende.;usted wird im laufenden Satz immer kleingeschrieben.
+Dativ-Klarstellung Plural;Quiero darles el libro {{c1::a ellos}}.;Ich will ihnen (den Männern/gemischt) das Buch geben.;Bilde die Klarstellung für die dritte Person Plural maskulin.;Das Pronomen les im Verb kündigt den Plural bereits an.
+Dativ-Klarstellung Plural feminin;Quiero darles el libro {{c1::a ellas}}.;Ich will ihnen (den Frauen) das Buch geben.;Bilde die Klarstellung für eine rein weibliche Gruppe am Satzende.;
+Dativ-Klarstellung Höflichkeit Plural;Quiero darles el libro {{c1::a ustedes}}.;Ich möchte Ihnen (Pl. höflich) das Buch geben.;Nutze die Klarstellung für die Höflichkeitsform in der Mehrzahl.;ustedes deckt im spanischen Alltag die direkte Ansprache von Gruppen ab.
+Doppelte Pronomen Klarstellung;Puedo dárselo {{c1::a él}}.;Ich kann es ihm geben.;Setze das Klarstellungssignal für ihn an das Satzende.;In der Kombination dárselo versteckt sich das se welches durch a él eindeutig maskulin wird.
+Doppelte Pronomen Klarstellung;Puedo dárselo {{c1::a ella}}.;Ich kann es ihr geben.;Nutze das weibliche Klarstellungssignal nach der doppelten Pronomen-Anhängung.;
+Doppelte Pronomen Klarstellung;Puedo dárselo {{c1::a usted}}.;Ich kann es Ihnen (Sg. höflich) geben.;Bilde das höfliche Klarstellungssignal im Singular.;
+Doppelte Pronomen Klarstellung;Puedo dárselo {{c1::a ustedes}}.;Ich kann es Ihnen (Pl. höflich) geben.;Bilde das höfliche Klarstellungssignal im Plural.;
+Futur-Klarstellung maskulin;Voy a escribirle {{c1::a él}}.;Ich werde ihm schreiben.;Nutze das maskuline Pronomen nach der Präposition a zur Verdeutlichung.;
+Futur-Klarstellung feminin;Voy a escribirle {{c1::a ella}}.;Ich werde ihr schreiben.;Nutze das feminine Pronomen am Satzende zur Verdeutlichung.;
+Futur-Klarstellung Höflichkeit;Voy a escribirle {{c1::a usted}}.;Ich werde Ihnen (Sg. höflich) schreiben.;Bilde die Höflichkeitsform für den Satzschluss.;
+Doppelte Pronomen vor dem Verb;Él se lo vende {{c1::a él}}.;Er verkauft es ihm.;Das Pronomen se steht starr vor dem Verb. Setze die maskuline Klarstellung ans Ende.;Wenn Pronomen vor dem Verb stehen wird die Klarstellung ganz normal hinten angehängt.
+Doppelte Pronomen vor dem Verb;Él se lo vende {{c1::a ella}}.;Er verkauft es ihr.;Nutze die feminine Klarstellung für das unbetonte se.;
+Doppelte Pronomen vor dem Verb;Él se lo vende {{c1::a usted}}.;Er verkauft es Ihnen (Sg. höflich).;Setze die Höflichkeitsform zur Verdeutlichung ein.;
+Doppelte Pronomen vor dem Verb;Él se lo vende {{c1::a ustedes}}.;Er verkauft es Ihnen (Pl. höflich).;Nutze die Höflichkeitsform im Plural am Satzende.;
+Top-300-Verb Sagen;Debes decírselo {{c1::a él}}.;Du musst es ihm sagen.;Bilde die maskuline Klarstellung nach dem Verb decir.;decírselo trägt einen Akzent um die Betonung auf der ursprünglichen Silbe zu retten.
+Top-300-Verb Sagen;Debes decírselo {{c1::a ella}}.;Du musst es ihr sagen.;Nutze die feminine Klarstellung für das angehängte se.;
+Top-300-Verb Sagen;Debes decírselo {{c1::a usted}}.;Du musst es Ihnen (Sg. höflich) sagen.;Bilde die Höflichkeitsform im Singular am Satzende.;
+Top-300-Verb Bringen;Voy a traérselo {{c1::a ellos}}.;Ich werde es ihnen bringen.;Nutze die maskuline Plural-Klarstellung am Satzende.;
+Top-300-Verb Bringen;Voy a traérselo {{c1::a ellas}}.;Ich werde es ihnen (den Frauen) bringen.;Nutze die feminine Plural-Klarstellung am Satzende.;
+Top-300-Verb Schicken;Queremos enviárselo {{c1::a usted}}.;Wir möchten es Ihnen (Sg. höflich) schicken.;Bilde die Klarstellung für die höfliche Anrede.;
+Top-300-Verb Schicken;Queremos enviárselo {{c1::a ustedes}}.;Wir möchten es Ihnen (Pl. höflich) schicken.;Bilde die Klarstellung für die höfliche Gruppe.;
+Top-300-Verb Fragen;Le preguntamos {{c1::a él}}.;Wir fragen ihn (Wem? -> ihm).;Nutze das maskuline Klarstellungssignal nach dem Verb preguntar.;preguntar verlangt im Spanischen immer den Dativ.
+Top-300-Verb Fragen;Le preguntamos {{c1::a ella}}.;Wir fragen sie (Wem? -> ihr).;Nutze das feminine Klarstellungssignal nach dem Verb preguntar.;
+Top-300-Verb Fragen;Le preguntamos {{c1::a usted}}.;Wir fragen Sie (Sg. höflich).;Nutze die Höflichkeitsform nach dem Verb preguntar.;
+Top-300-Verb Antworten;Le respondo {{c1::a él}}.;Ich antworte ihm.;Nutze das maskuline Klarstellungssignal nach dem Verb responder.;
+Top-300-Verb Antworten;Le respondo {{c1::a ella}}.;Ich antworte ihr.;Nutze das feminine Klarstellungssignal nach dem Verb responder.;
+Top-300-Verb Antworten;Le respondo {{c1::a usted}}.;Ich antworte Ihnen (Sg. höflich).;Nutze die Höflichkeitsform nach dem Verb responder.;

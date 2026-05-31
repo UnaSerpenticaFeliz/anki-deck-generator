@@ -1,0 +1,31 @@
+main_topic;cloze_test;translation;hint;extra
+Reguläres Genus feminin;La casa es {{c1::roja}}.;Das Haus ist rot.;Passe das Adjektiv rojo an das weibliche Nomen casa an.;Bei weiblichen Nomen auf -a enden die meisten flexiblen Adjektive ebenfalls auf -a.
+Reguläres Genus maskulin;El perro es {{c1::negro}}.;Der Hund ist schwarz.;Das Nomen perro ist maskulin, das Adjektiv bleibt in der Grundform auf -o.;
+Griechische Ausnahmen auf -ma;El problema es {{c1::pesado}}.;Das Problem ist groß/schwerwiegend.;Das Nomen problema endet zwar auf -a, ist aber maskulin. Nutze die männliche Adjektivendung.;Erinnerst du dich an den -matic-Hack? Problematic zeigt, dass el problema im Spanischen maskulin ist.
+D-IÓ-A-Z Regel feminin;La ciudad es {{c1::bonita}}.;Die Stadt ist schön.;Das Nomen ciudad ist weiblich. Passe das Adjektiv bonito an.;Wörter auf -dad gehören zur weiblichen D-IÓ-A-Z-Regel.
+Sonderfall la mano;La mano está {{c1::limpia}}.;Die Hand ist sauber.;Das Nomen mano endet auf -o, ist aber weiblich. Das Adjektiv muss weiblich sein.;Lass dich nicht von der Endung des Nomens täuschen. Das grammatikalische Geschlecht entscheidet.
+Aussprache-Ausnahme el agua;El agua está {{c1::fría}}.;Das Wasser ist kalt.;Das Nomen agua ist weiblich, nutzt im Singular aber el zur besseren Aussprache. Das Adjektiv wird weiblich.;Der weibliche Kern von agua zeigt sich sofort am Adjektiv (fría) und im Plural (las aguas).
+LONERS Regel maskulin;El coche es {{c1::rápido}}.;Das Auto ist schnell.;Das Nomen coche endet auf -e und ist laut LONERS maskulin. Passe das Adjektiv an.;
+Sonderfall la foto;La foto es {{c1::linda}}.;Das Foto ist schön.;Das Nomen foto ist eine weibliche Kurzform. Das Adjektiv wird weiblich auf -a.;la foto leitet sich von la fotografía ab.
+Unveränderliche Adjektive auf -e;La flor es {{c1::verde}}.;Die Blume ist grün.;Adjektive auf -e verändern sich im weiblichen Singular nicht.;Es gibt im Spanischen kein Wort wie verda. verde bleibt starr.
+Unveränderliche Adjektive Konsonant;La gata es {{c1::gris}}.;Die Katze ist grau.;Adjektive, die auf einen Konsonanten enden, bleiben für beide Geschlechter gleich.;
+Possessivpronomen feminin;Mi amiga es {{c1::pequeña}}.;Meine Freundin ist klein.;Passe das Adjektiv pequeño an das weibliche Nomen amiga an.;
+Unveränderliche Adjektive auf -e;Esta sopa está {{c1::caliente}}.;Diese Suppe ist heiß.;Das Adjektiv caliente endet auf -e und bleibt für maskulin und feminin identisch.;
+Mengenpronomen feminin;Aquí hay mucha comida {{c1::barata}}.;Hier gibt es viel billiges Essen.;Das Adjektiv barato muss an das weibliche Nomen comida angepasst werden.;
+Demonstrativpronomen feminin;Esa mujer está {{c1::cansada}}.;Jene Frau ist müde.;Das Adjektiv cansado passt sich an das biologisch weibliche Nomen mujer an.;
+Possessivpronomen feminin;Tu gata está {{c1::preciosa}}.;Deine Katze ist wunderschön.;Passe das Adjektiv precioso an das weibliche Nomen gata an.;
+Demonstrativpronomen maskulin;Este vino es {{c1::caro}}.;Dieser Wein ist teuer.;Das Nomen vino ist maskulin, das Adjektiv bleibt auf -o.;
+Unveränderliche Adjektive auf -e;Nuestro hijo es {{c1::grande}}.;Unser Sohn ist groß.;Das Adjektiv grande bleibt für beide Geschlechter in dieser Form starr.;
+Mengenpronomen maskulin;Él tiene mucho trabajo {{c1::nuevo}}.;Er hat viel neue Arbeit.;Das Nomen trabajo ist maskulin, passe das Adjektiv nuevo entsprechend an.;
+Demonstrativpronomen maskulin;Ese libro es {{c1::viejo}}.;Jenes Buch ist alt.;Das Nomen libro ist maskulin, das Adjektiv bleibt in seiner Grundform.;
+Unveränderliche Adjektive auf -e;Mi hermano está {{c1::triste}}.;Mein Bruder ist traurig.;Das Adjektiv triste bleibt unverändert.;
+Griechische Ausnahmen auf -ma;Este problema es {{c1::nuevo}}.;Dieses Problem ist neu.;Das Nomen problema ist maskulin, das Adjektiv muss auf -o enden.;
+Unveränderliche Adjektive auf -e;Mi tema favorito es {{c1::importante}}.;Mein Lieblingsthema ist wichtig.;Das Adjektiv importante endet auf -e und bleibt starr für beide Geschlechter.;
+Griechische Ausnahmen auf -ma;Hay mucho sistema {{c1::complejo}}.;Es gibt hier viel komplexes System.;Das Nomen sistema ist maskulin, passe das Adjektiv an.;Systematic zeigt, dass el sistema maskulin ist.
+Griechische Ausnahmen auf -ma;Ese idioma es {{c1::complicado}}.;Jene Sprache ist schwer/kompliziert.;Das Nomen idioma ist maskulin, das Adjektiv bleibt auf -o.;Idiomatic beweist das maskuline Geschlecht von idioma.
+Griechische Ausnahmen auf -ma;Tu programa es {{c1::bueno}}.;Dein Programm ist gut.;Das Nomen programa ist maskulin, nutze das Adjektiv in der Grundform.;Programmatic beweist, dass programa maskulin ist.
+Sonderfall la radio;Esta radio es {{c1::famosa}}.;Dieses Radio ist berühmt.;Das Nomen radio ist eine weibliche Kurzform. Nutze die weibliche Adjektivform auf -a.;la radio leitet sich historisch von la radiodifusión ab.
+Sonderfall la moto;Mi moto es {{c1::rápida}}.;Mein Motorrad ist schnell.;Das Nomen moto ist weiblich. Passe das Adjektiv an.;la moto leitet sich von la motocicleta ab.
+LONERS Regel maskulin;Este hotel es {{c1::caro}}.;Dieses Hotel ist teuer.;Das Nomen hotel endet auf -l und ist maskulin. Das Adjektiv bleibt auf -o.;
+LONERS Regel maskulin;El pan es {{c1::bueno}}.;Das Brot ist frisch/gut.;Das Nomen pan endet auf -n und ist maskulin. Das Adjektiv bleibt in der Grundform.;
+LONERS Regel maskulin;Nuestro amor es {{c1::precioso}}.;Unsere Liebe ist wunderschön.;Das Nomen amor endet auf -r und ist maskulin. Passe das Adjektiv an.;

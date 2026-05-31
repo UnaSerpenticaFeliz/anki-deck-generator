@@ -1,0 +1,31 @@
+main_topic;cloze_test;translation;hint;extra
+Periphrastisches Futur 1. Sg.;Voy a {{c1::saberlo}} mañana.;Ich werde es morgen wissen.;Nutze die 1. Person Singular von ir (voy) + a + Infinitiv von saber (wissen) mit angehängtem Pronomen lo.;Das periphrastische Futur mit ir a ist die im Alltag mit Abstand am häufigsten genutzte Zukunftsform.
+Periphrastisches Futur 1. Sg.;Voy a {{c1::leer}} el libro.;Ich werde das Buch lesen.;Bilde die Zukunft für ich mit der passenden Form von ir + a + Grundform von leer.;
+Periphrastisches Futur 2. Sg.;Vas a {{c1::comprar}} un coche.;Du wirst ein Auto kaufen.;Nutze die 2. Person Singular von ir (vas) + a + Infinitiv von comprar.;
+Periphrastisches Futur 3. Sg.;Él va a {{c1::viajar}} mañana.;Er wird morgen reisen.;Bilde die Zukunft für er mit der passenden Form von ir (va) + a + Infinitiv von viajar.;
+Periphrastisches Futur 1. Pl.;Vamos a {{c1::ganar}} el partido.;Wir werden das Spiel gewinnen.;Nutze die 1. Person Plural von ir (vamos) + a + Infinitiv von ganar.;Dieses Muster drückt oft auch eine feste Absicht oder einen unmittelbaren Plan aus.
+Periphrastisches Futur 2. Pl.;Vosotros vais a {{c1::cantar}} bien.;Ihr werdet gut singen.;Nutze die 2. Person Plural von ir (vais) + a + Infinitiv von cantar.;
+Periphrastisches Futur 3. Pl.;Ellos van a {{c1::llegar}} pronto.;Sie werden bald ankommen.;Nutze die 3. Person Plural von ir (van) + a + Infinitiv von llegar.;
+Periphrastisches Futur Höflichkeit;Usted va a {{c1::lograr}} el éxito.;Sie (Sg. höflich) werden den Erfolg erreihen/erzielen.;Nutze die Form für usted (va a) + Infinitiv von lograr (erreichen).;Das Wort éxito (Erfolg) ist maskulin laut LONERS-Regel.
+Periphrastisches Futur Höflichkeit Pl.;Ustedes van a {{c1::ver}} la ciudad.;Sie (Pl. höflich) werden die Stadt sehen.;Nutze die Form für ustedes (van a) + Infinitiv von ver (sehen).;
+Futur mit Pronomen vorne;Lo voy a {{c1::tomar}}.;Ich werde ihn (den Kaffee) trinken.;Das Akkusativpronomen lo steht bereits vorne. Ergänze die Grundform von tomar.;Wenn Pronomen im Spiel sind hast du beim Futur immer die Wahl: entweder ganz nach vorne vor das Hilfsverb ODER hinten an den Infinitiv anhängen.
+Futur mit Pronomen hinten;Voy a {{c1::tomarlo}}.;Ich werde ihn (den Kaffee) trinken.;Das Hilfsverb steht bereits vorne. Hänge das Akkusativpronomen lo direkt an den Infinitiv von tomar an.;Beide Satzvarianten (Lo voy a tomar und Voy a tomarlo) sind grammatikalisch absolut gleichwertig.
+Futur mit Pronomen vorne;La vamos a {{c1::aprender}}.;Wir werden sie (die Sprache) lernen.;Das Pronomen la steht bereits vorne. Ergänze die Grundform von aprender.;
+Futur mit Pronomen hinten;Vamos a {{c1::aprenderla}}.;Wir werden sie (die Sprache) lernen.;Das Hilfsverb steht vorne. Hänge das weibliche Pronomen la direkt an den Infinitiv an.;
+Futur mit Pronomen vorne;Nos van a {{c1::ayudar}}.;Sie werden uns helfen.;Das Dativpronomen nos (uns) steht vorne. Ergänze den Infinitiv von ayudar (helfen).;
+Futur mit Pronomen hinten;Van a {{c1::ayudarnos}}.;Sie werden uns helfen.;Hänge das Dativpronomen nos (uns) direkt an das Ende des Infinitivs an.;
+Futur mit doppelten Pronomen hinten;Voy a {{c1::mostrárselo}} a ella.;Ich werde es ihr zeigen.;Hänge das mutierte Dativpronomen (se) und das Akkusativpronomen (lo) an den Infinitiv von mostrar an. Denke an den Akzent!;Durch das Anhängen von zwei Pronomen wird das Wort so lang dass ein geschriebener Akzent nötig ist um die Betonung zu retten (mostrárselo).
+Futur mit doppelten Pronomen hinten;Vas a {{c1::traérselas}} a ellos.;Du wirst sie (die Schlüssel) ihnen bringen.;Hänge se + las an den Infinitiv von traer an. Denke an den Akzent auf dem e!;
+Futur mit doppelten Pronomen vorne;Se lo voy a {{c1::decir}} a él.;Ich werde es ihm sagen.;Die Pronomen se lo stehen bereits vorne. Ergänze den reinen Infinitiv von decir.;Wenn die Pronomen vor dem Hilfsverb stehen entfällt der geschriebene Akzent auf dem Infinitiv da sich die Wortlänge nicht verändert.
+Futur mit doppelten Pronomen vorne;Se las vamos a {{c1::enviar}} a ustedes.;Wir werden sie Ihnen schicken.;Die Pronomen se las stehen vorne. Ergänze den Infinitiv von enviar (schicken).;
+Optimistischer Zukunftssatz;Voy a {{c1::disfrutar}} del día.;Ich werde den Tag genießen.;Bilde die Zukunft für ich + Infinitiv von disfrutar (genießen).;Das Verb disfrutar verlangt im Spanischen oft die Präposition de vor dem Objekt (disfrutar de algo).
+Optimistischer Zukunftssatz;Vas a {{c1::sonreír}} hoy.;Du wirst heute lächeln.;Bilde die Zukunft für du + Infinitiv von sonreír (lächeln).;
+Optimistischer Zukunftssatz;El sol va a {{c1::brillar}}.;Die Sonne wird scheinen/leuchten.;Das Nomen sol ist maskulin laut LONERS. Nutze die 3. Person von ir + a + Infinitiv von brillar.;
+Optimistischer Zukunftssatz;Vamos a {{c1::celebrar}} la vida.;Wir werden das Leben feiern.;Zukunft für wir + Infinitiv von celebrar (feiern).;
+Optimistischer Zukunftssatz;Vais a {{c1::encontrar}} una solución.;Ihr werdet eine Lösung finden.;Zukunft für ihr + Infinitiv von encontrar (finden).;
+Optimistischer Zukunftssatz;Mis amigos van a {{c1::venir}}.;Meine Freunde werden kommen.;Zukunft für die 3. Person Plural + Infinitiv von venir (kommen).;
+Futur mit Zeitangabe;Voy a {{c1::hacer}} el trabajo más tarde.;Ich werde die Arbeit später machen.;Zukunft für ich + Infinitiv von hacer (machen/tun).;
+Futur mit Zeitangabe;Vamos a {{c1::comer}} juntos este fin de semana.;Wir werden dieses Wochenende zusammen essen.;Zukunft für wir + Infinitiv von comer (essen).;Este fin de semana bedeutet dieses Wochenende.
+Futur mit Ortsangabe;Voy a {{c1::estar}} en casa.;Ich werde zu Hause sein.;Zukunft für ich + Infinitiv von estar (sein für Aufenthaltsorte).;Für feste oder vorübergehende Orte nutzt das Spanische immer estar statt ser.
+Futur mit Ortsangabe;Vamos a {{c1::ir}} a la playa.;Wir werden an den Strand gehen/fahren.;Zukunft für wir + Infinitiv von ir (gehen/fahren).;Hier doppelt sich das Verb ir in seiner Funktion: einmal konjugiert als Hilfsverb (vamos) und einmal im Infinitiv (ir).
+Futur mit Dativ-Klarstellung;Voy a {{c1::hablarle}} a ella.;Ich werde mit ihr sprechen.;Zukunft für ich mit angehängtem Pronomen le + Klarstellungssignal für sie (a ella) am Ende.;hablar verlangt im Spanischen das Dativpronomen le wenn man zu einer Person spricht.

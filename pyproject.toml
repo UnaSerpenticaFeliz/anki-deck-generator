@@ -1,0 +1,11 @@
+#anki-deck-generator/pyproject.toml
+[project]
+name = "anki-deck-generator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+[tool.uv.workspace]
+members = ["apps/*"]
+# uv run --package generator-app start-app
+# uv add --package generator-app pydantic-settings pyyaml

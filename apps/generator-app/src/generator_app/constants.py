@@ -1,0 +1,18 @@
+# anki-deck-generator/apps/generator-app/src/generator_app/constants.py
+
+# 1. Konfiguration & Modell (Unverändert für dein Design)
+MODEL_ID = 1543210988
+OUTPUT_FILENAME = 'Spanisch_Multi_Struktur.apkg'
+
+CARD_STYLE = """
+.card { font-family: sans-serif; font-size: 16px; max-width: 600px; margin: 20px auto; }
+.header { font-size: 1.1em; font-weight: bold; color: #4A90E2; text-transform: uppercase; }
+.divider { border: none; border-top: 2px solid #4A90E2; margin-bottom: 20px; }
+.cloze-text { font-size: 1.4em; font-weight: 500; margin-bottom: 15px; }
+.context-box { font-size: 1.0em; color: #666666; margin-top: 15px; }
+.hint-container { margin-top: 15px; }
+.hint-trigger { cursor: pointer; color: #2196F3; font-weight: bold; }
+.hint-content { margin-top: 5px; padding: 10px; background: #f8f9fa; border-left: 3px solid #2196F3; font-style: italic; }
+.extra-info { color: #2E7D32; font-weight: 500; margin-top: 10px; }
+#typeans { font-size: 1.2em !important; padding: 5px; width: 100%; box-sizing: border-box; }
+"""
