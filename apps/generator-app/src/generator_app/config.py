@@ -23,6 +23,7 @@ class AnkiModelConfig(BaseModel):
 class MappingConfig(BaseModel):
     model_key: str
     output_filename: str = Field(..., min_length=5)
+    generate_audio: bool = Field(default=False)
 
 
 class InputFileConfig(BaseModel):
@@ -30,6 +31,7 @@ class InputFileConfig(BaseModel):
     file_name: FilePath
     deck_name: str
     deck_id: int
+    generate_audio: bool
     model_details: AnkiModelConfig | None = None
 
     # Properties für den HTML/CSS-Zugriff (bleiben exakt gleich)
@@ -89,7 +91,9 @@ class AppSettings(BaseSettings):
                 # Ordner ohne Mapping ignorieren wir sicherheitshalber oder loggen es
                 continue
 
-            model_key = self.source_mappings[language_folder].model_key
+            mapping:MappingConfig = self.source_mappings[language_folder]
+
+            model_key = mapping.model_key
 
             category_folder = relative_parts[1]  # z. B. 'pareto_sentences'
             
@@ -117,7 +121,9 @@ class AppSettings(BaseSettings):
                 file_name=txt_file,
                 deck_name=full_deck_name,
                 deck_id=deck_id,
-                model_details=self.anki_models[model_key]
+                #generate_audio = mapping.generate_audio,
+                generate_audio = mapping.generate_audio,
+                model_details=self.anki_models[model_key],
             )
 
             # if language_folder in self.file_configurations:

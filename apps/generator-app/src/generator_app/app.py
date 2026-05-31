@@ -1,57 +1,16 @@
 # anki-deck-generator/apps/generator-app/src/generator_app/app.py
 import csv
-import re 
 import logging
-import asyncio
 from pathlib import Path
 import genanki
-import edge_tts
-import hashlib
+
 
 from generator_app.config import SETTINGS, InputFileConfig
 from generator_app.models import get_genanki_model
+from generator_app.services.audio import clean_cloze_text, get_or_generate_audio
 
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
-
-
-
-def clean_cloze_text(raw_text: str) -> str:
-    """
-    Säubert den Anki-Lückentext für eine flüssige Sprachausgabe.
-    Macht aus: "El libro es {{c1::rojo}}." -> "El libro es rojo."
-    Macht aus: "El {{c1::libro::Nomen}} ist rot." -> "El libro ist rot." (entfernt Anki-Hinweise)
-    """
-    # 1. Schritt: Entfernt eventuelle Anki-Tipps innerhalb der Lücke, z.B. {{c1::libro::Nomen}} -> {{c1::libro}}
-    text_without_hints = re.sub(r"\{\{c\d+::([^:]+)::[^}]+\}\}", r"{\1}", raw_text)
-    
-    # 2. Schritt: Holt das reine Wort aus den Standard-Klammern heraus, z.B. {{c1::rojo}} -> rojo
-    clean_text = re.sub(r"\{\{c\d+::([^}]+)\}\}", r"\1", text_without_hints)
-    
-    return clean_text.strip()
-
-
-async def generate_audio_file(text:str, output_path: Path) -> None:
-    voice = "es-ES-AlvaroNeural"
-    communicate = edge_tts.Communicate(text,voice)
-    await communicate.save(output_path)
-
-def get_or_generate_audio(text_es:str, audio_dir:Path, media_files_pool:list[str]) -> str:
-    audio_dir.mkdir(parents=True, exist_ok=True)
-
-    text_hash = hashlib.md5(text_es.encode("utf-8")).hexdigest()
-    filename = f"audio_{text_hash}.mp3"
-    full_audio_path = audio_dir / filename
-
-    if full_audio_path.exists():
-        logging.debug("  -> Audio bereits vorhanden für: '%s'", text_es[:20])
-    else:
-        logging.info("  -> Generiere neues Audio für: '%s...'", text_es[:30])
-        asyncio.run(generate_audio_file(text_es, full_audio_path))
-
-    media_files_pool.append(str(full_audio_path))
-
-    return f"[sound:{filename}]"
 
 
 def read_csv_data_and_add_to_subdecks(
@@ -99,7 +58,11 @@ def read_csv_data_and_add_to_subdecks(
 
                     text_cleaned:str = clean_cloze_text(row["cloze_test"].strip())
 
-                    audio_anki_tag = get_or_generate_audio(text_cleaned, audio_dir, media_files_pool)
+                    if config.generate_audio:
+                        audio_anki_tag = get_or_generate_audio(text_cleaned, audio_dir, media_files_pool)
+                    else:
+                        audio_anki_tag = ""
+
 
                     note = genanki.Note(
                         model=cloze_model,
@@ -130,12 +93,15 @@ def run() -> None:
         return
     
 
-    # Zentraler Sammeltopf für alle MP3-Pfade (wichtig für den genanki-Export)
-    global_media_files: list[str] = []
+    
 
     # Wir iterieren über das von dir gebaute Dictionary (Sprachordner und die zugehörigen Decks)
     for language_folder, configs in SETTINGS.file_configurations.items():
         
+
+        # Zentraler Sammeltopf für alle MP3-Pfade (wichtig für den genanki-Export)
+        global_media_files: list[str] = []
+
         # 1. Alle Subdecks für diesen spezifischen Sprachordner generieren
         all_generated_decks = read_csv_data_and_add_to_subdecks(
             configs,
@@ -148,13 +114,16 @@ def run() -> None:
             
         # 2. Den schönen Ausgabe-Namen zielsicher aus dem source_mapping holen!
         output_filename = SETTINGS.source_mappings[language_folder].output_filename
+
+        generate_audio:bool = SETTINGS.source_mappings[language_folder].generate_audio
         
         logging.info("Erzeuge Paket für '%s' -> Exportiere nach '%s'...", language_folder, output_filename)
         
         try:
             package = genanki.Package(all_generated_decks)
 
-            package.media_files = global_media_files
+            if generate_audio:
+                package.media_files = global_media_files
 
             package.write_to_file(output_filename)
             logging.info("Erfolg! Paket '%s' wurde erstellt.\n", output_filename)
