@@ -2,7 +2,6 @@
 
 # 1. Konfiguration & Modell (Unverändert für dein Design)
 MODEL_ID = 1543210988
-OUTPUT_FILENAME = 'Spanisch_Multi_Struktur.apkg'
 
 CARD_STYLE = """
 .card { font-family: sans-serif; font-size: 16px; max-width: 600px; margin: 20px auto; }

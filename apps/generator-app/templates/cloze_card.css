@@ -8,3 +8,12 @@
 .hint-content { margin-top: 5px; padding: 10px; background: #f8f9fa; border-left: 3px solid #2196F3; font-style: italic; }
 .extra-info { color: #2E7D32; font-weight: 500; margin-top: 10px; }
 #typeans { font-size: 1.2em !important; padding: 5px; width: 100%; box-sizing: border-box; }
+.audio-container {
+    margin-top: 15px;      /* Schafft dezenten Abstand nach oben */
+    text-align: center;    /* Zentriert ein eventuelles Play-Symbol */
+}
+
+/* Versteckt den Container komplett, falls das Feld leer bleibt */
+.audio-container:empty {
+    display: none;
+}

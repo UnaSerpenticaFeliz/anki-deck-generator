@@ -4,7 +4,7 @@ anki_models:
   cloze_spanish_standard:
     model_id: 876543210
     model_name: "CLOZE CARD SPANISH MULTI STRUCTURE"
-    fields: ["main_topic", "cloze_test", "translation", "hint", "extra"]
+    fields: ["main_topic", "cloze_test", "translation", "hint", "extra","audio"]
     template_dir: "apps/generator-app/templates"
     template_name: "cloze_card"
     is_cloze: true
