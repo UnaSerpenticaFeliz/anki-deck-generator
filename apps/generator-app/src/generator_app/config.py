@@ -24,6 +24,7 @@ class MappingConfig(BaseModel):
     model_key: str
     output_filename: str = Field(..., min_length=5)
     generate_audio: bool = Field(default=False)
+    edge_tts_voice: str = Field(default="es-ES-AlvaroNeural")
 
 
 class InputFileConfig(BaseModel):
@@ -32,6 +33,7 @@ class InputFileConfig(BaseModel):
     deck_name: str
     deck_id: int
     generate_audio: bool
+    edge_tts_voice: str
     model_details: AnkiModelConfig | None = None
 
     # Properties für den HTML/CSS-Zugriff (bleiben exakt gleich)
@@ -121,7 +123,7 @@ class AppSettings(BaseSettings):
                 file_name=txt_file,
                 deck_name=full_deck_name,
                 deck_id=deck_id,
-                #generate_audio = mapping.generate_audio,
+                edge_tts_voice=mapping.edge_tts_voice,
                 generate_audio = mapping.generate_audio,
                 model_details=self.anki_models[model_key],
             )

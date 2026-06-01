@@ -24,7 +24,12 @@ def _create_anki_note(
     audio_anki_tag = ""
     if config.generate_audio:
         text_cleaned = clean_cloze_text(cloze_test_raw)
-        audio_anki_tag = get_or_generate_audio(text_cleaned, audio_dir, media_files_pool)
+        audio_anki_tag = get_or_generate_audio(
+            text_cleaned, 
+            audio_dir, 
+            media_files_pool,
+            config.edge_tts_voice
+        )
 
     return genanki.Note(
         model=cloze_model,

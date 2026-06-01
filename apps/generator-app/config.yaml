@@ -15,3 +15,6 @@ source_mappings:
     model_key: "cloze_spanish_standard"
     output_filename: "Spanisch_Pareto_System.apkg"
     generate_audio: true
+    edge_tts_voice: "es-ES-AlvaroNeural"
+
+# edge_tts_voice: "fr-FR-EloiseNeural"

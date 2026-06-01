@@ -26,14 +26,18 @@ def clean_cloze_text(raw_text: str) -> str:
     return clean_text.strip()
 
 
-async def _generate_audio_file(text: str, output_path: Path) -> None:
+async def _generate_audio_file(text: str, output_path: Path, voice:str) -> None:
     """Führt den asynchronen Download von den Microsoft-Servern aus."""
-    voice = "es-ES-AlvaroNeural"
     communicate = edge_tts.Communicate(text, voice)
     await communicate.save(output_path)
 
 
-def get_or_generate_audio(text_es: str, audio_dir: Path, media_files_pool: list[str]) -> str:
+def get_or_generate_audio(
+        text_es: str, 
+        audio_dir: Path, 
+        media_files_pool: list[str],
+        voice:str, 
+    ) -> str:
     """Prüft lokale Audios oder generiert diese dynamisch via edge-tts."""
     audio_dir.mkdir(parents=True, exist_ok=True)
 
@@ -45,7 +49,7 @@ def get_or_generate_audio(text_es: str, audio_dir: Path, media_files_pool: list[
         logger.debug("Audio bereits vorhanden für: '%s'", text_es[:20])
     else:
         logger.info("Generiere neues Audio für: '%s...'", text_es[:30])
-        asyncio.run(_generate_audio_file(text_es, full_audio_path))
+        asyncio.run(_generate_audio_file(text_es, full_audio_path,voice))
 
     media_files_pool.append(str(full_audio_path))
     return f"[sound:{filename}]"
