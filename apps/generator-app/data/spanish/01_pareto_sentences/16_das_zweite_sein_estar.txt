@@ -1,0 +1,71 @@
+main_topic;cloze_test;translation;hint;extra
+Estar für Orte (1. Sg.);El libro {{c1::está}} en la mesa.;Das Buch liegt auf dem Tisch.;Nutze die 3. Person Singular von estar für Ortsangaben.;Für Orte nutzt das Spanische ausnahmslos estar. Das deutsche 'liegen' oder 'stehen' wird bei reinen Ortsangaben meist einfach mit 'sein' übersetzt.
+Estar für Gefühle (1. Sg.);Hoy {{c1::estoy}} muy feliz.;Heute bin ich sehr glücklich.;Nutze die 1. Person Singular von estar für ein aktuelles Gefühl.;Gefühle und Stimmungen sind vorübergehende Zustände weshalb hier immer estar greift.
+Estar für Orte (2. Sg.);¿Tú {{c1::estás}} en la playa?;Bist du am Strand?;Bilde die Frage mit der 2. Person Singular von estar (estás). Denke an den Akzent!;Fast alle Formen von estar tragen im Präsens einen geschriebenen Akzent auf dem a (estás está están).
+Estar für Gefühle (3. Sg.);Él {{c1::está}} emocionado por el proyecto.;Er ist begeistert von dem Projekt.;Bilde die 3. Person Singular von estar (está) für ein Gefühl.;
+Estar für Orte (1. Pl.);Nosotros {{c1::estamos}} en el centro de la ciudad.;Wir befinden uns im Stadtzentrum.;Nutze die 1. Person Plural von estar (estamos) für eine Ortsangabe.;Die Form estamos braucht als einzige Form im Präsens neben estoy keinen geschriebenen Akzent.
+Estar für Gefühle (2. Pl.);Vosotros {{c1::estáis}} listos para ganar.;Ihr seid bereit zu gewinnen.;Bilde die 2. Person Plural von estar (estáis) für einen Zustand. Denke an den Akzent!;Das Adjektiv listo bedeutet mit estar 'bereit' während es mit ser 'intelligent' bedeutet. Ein riesiger Unterschied!
+Estar für Orte (3. Pl.);Mis amigos {{c1::están}} en el hotel nuevo.;Meine Freunde sind im neuen Hotel.;Bilde die 3. Person Plural von estar (están) für eine Ortsangabe.;Das Wort hotel ist maskulin laut LONERS-Regel.
+Estar für Gefühle (3. Pl.);Las niñas {{c1::están}} muy contentas hoy.;Die Mädchen sind heute sehr zufrieden.;Nutze die 3. Person Plural von estar (están) für einen Gemütszustand.;
+Estar für Höflichkeit (Sg.);¿Usted {{c1::está}} cómodo aquí?;Sind Sie (Sg. höflich) hier bequem/komfortabel untergebracht?;Nutze die Form für usted (está) für ein Befinden.;
+Estar für Höflichkeit (Pl.);Ustedes {{c1::están}} invitados a la fiesta.;Sie (Pl. höflich) sind zur Party eingeladen.;Nutze die Form für ustedes (están) für einen Zustand.;
+Estar Zustand von Sachen;La comida {{c1::está}} muy buena.;Das Essen schmeckt sehr gut (ist gerade sehr gut).;Nutze la comida mit der 3. Person von estar für den aktuellen Geschmack.;Wenn man estar mit Lebensmitteln nutzt (está bueno) meint man den aktuellen Geschmack. Ser bueno würde bedeuten dass das Essen generell gesund ist.
+Estar Zustand von Sachen;La puerta {{c1::está}} abierta para todos.;Die Tür steht offen für alle.;Nutze die 3. Person von estar für den Zustand der Tür (geöffnet).;
+Estar Zustand von Sachen;Las ventanas {{c1::están}} limpias hoy.;Die Fenster sind heute sauber.;Nutze den Plural von estar für den aktuellen Zustand der Fenster.;
+Estar Zustand von Sachen;El coche de Carlos {{c1::está}} ordenado.;Carlos' Auto ist aufgeräumt.;Nutze está für den Zustand des Autos.;Hier siehst du auch wieder dein gelerntes Genitiv-Muster (el coche de Carlos).
+Estar mit Pronomen vorne;El sol siempre me {{c1::está}} dando energía.;Die Sonne gibt mir immer Energie.;Das Dativpronomen me steht vorne. Ergänze die 3. Person von estar vor dem Gerundium.;Hier siehst du estar in seiner Funktion als Hilfsverb für die Verlaufsform (dein Satzmuster 13).
+Negation vor Estar;No {{c1::estoy}} cansado hoy.;Ich bin heute nicht müde.;Das no steht starr vor der 1. Person von estar (estoy).;Hier greift wieder deine Pareto-Regel 12: Die Verneinung steht starr direkt vor dem konjugierten Verb.
+Negation vor Estar;Ella no {{c1::está}} lejos de la solución.;Sie ist nicht weit von der Lösung entfernt.;Das no steht starr vor der 3. Person von estar (está).;Entfernungen und Positionen werden im Spanischen immer mit estar ausgedrückt.
+Estar mit Dativpronomen;El éxito {{c1::está}} esperándote.;Der Erfolg wartet gerade auf dich.;Das Pronomen te hängt hinten am Gerundium. Ergänze die 3. Person von estar (está).;
+Optimistischer Zustand;La situación {{c1::está}} mejorando gracias a ti.;Die Situation verbessert sich gerade dank dir.;Nutze está als Hilfsverb für den laufenden positiven Prozess.;
+Optimistischer Zustand;Nuestras ideas {{c1::están}} bien recibidas.;Unsere Ideen werden gut aufgenommen (sind gut aufgenommen).;Nutze den Plural están passend zum weiblichen Nomen ideas.;
+Optimistischer Zustand;Tu futuro {{c1::está}} lleno de luz.;Deine Zukunft ist voller Licht.;Nutze die 3. Person von estar (está) für das Adjektiv lleno (voll).;Das Wort futuro ist maskulin laut LONERS-Regel.
+Optimistischer Zustand;El jardín {{c1::está}} precioso en primavera.;Der Garten sieht im Frühling wunderschön aus.;Nutze está für den saisonalen/vorübergehenden Zustand des Gartens.;Nutzt man estar mit Adjektiven der Schönheit beschreibt man oft dass etwas in diesem Moment besonders toll aussieht.
+Estar in einer Frage;¿{{c1::Estás}} seguro de la respuesta?;Bist du sicher mit der Antwort?;Bilde die Frage für du mit der passenden Form von estar (estás).;
+Estar in einer Frage;¿Dónde {{c1::estamos}} en este momento?;Wo befinden wir uns in diesem Moment?;Nutze das Fragewort dónde + die wir-Form von estar (estamos).;
+Estar Höflichkeit im Plural;Ustedes {{c1::están}} progresando rápido.;Sie (Pl. höflich) machen gerade schnelle Fortschritte.;Hilfsverb están vor dem Gerundium für die Höflichkeitsform im Plural.;
+Vorübergehender Zustand;Mi mano {{c1::está}} fría por el viento.;Meine Hand ist kalt wegen des Windes.;Nutze está für den aktuellen Temperaturzustand der Hand.;Erinnerst du dich an la mano? Endet auf -o ist aber weiblich! Deshalb heißt es fría.
+Vorübergehender Zustand;El agua del río {{c1::está}} limpia.;Das Wasser des Flusses ist sauber.;Nutze está für den Zustand des Wassers. Denke an die Genitiv-Verschmelzung del!;Hier greifen drei deiner gelernten Muster perfekt ineinander: das Aussprache-el bei agua der Genitiv del und estar für Zustände.
+Vorübergehender Zustand;Tus ojos {{c1::están}} llenos de alegría.;Deine Augen sind voller Freude.;Nutze den Plural están passend zu los ojos.;
+Ortsangabe mit Präposition;El autobús {{c1::está}} enfrente del hotel.;Der Bus steht gegenüber vom Hotel.;Nutze está für die Position des Busses. Denke an die Genitiv-Verschmelzung del!;
+Ortsangabe mit Präposition;La oficina {{c1::está}} cerca de aquí.;Das Büro ist in der Nähe von hier.;Nutze está für die Ortsangabe des Büros.;
+Estar für Gefühle (1. Sg.);Hoy {{c1::estoy}} muy tranquilo.;Heute bin ich sehr ruhig/gelassen.;Nutze die 1. Person Singular von estar für ein aktuelles Gefühl.;Das Adjektiv tranquilo passt sich im Maskulinum auf -o an den Sprecher an.
+Estar für Orte (1. Sg.);{{c1::Estoy}} aquí para ayudarte.;Ich bin hier um dir zu helfen.;Bilde die 1. Person Singular von estar vor dem Lokaladverb aquí.;Hier siehst du auch das angehängte Pronomen für dir (ayudarte) aus Satzmuster 9.
+Estar für Gefühle (2. Sg.);¿Tú {{c1::estás}} contento con el trabajo?;Bist du zufrieden mit der Arbeit?;Bilde die Frage mit der 2. Person Singular von estar. Denke an den Akzent!;
+Estar für Orte (2. Sg.);¿Por qué {{c1::estás}} fuera de la casa?;Warum bist du außerhalb des Hauses?;Fragewort por qué + 2. Person Singular von estar. Denke an die getrennte Form von de la!;
+Estar für Gefühle (3. Sg.);Carlos {{c1::está}} muy orgulloso de ti.;Carlos ist sehr stolz auf dich.;Bilde die 3. Person Singular von estar für ein Gefühl.;
+Estar für Orte (3. Sg.);La llave {{c1::está}} dentro del bolso.;Der Schlüssel befindet sich in der Tasche.;Nutze die 3. Person Singular von estar für eine Ortsangabe. Denke an die Verschmelzung del!;Das Wort bolso (Tasche) ist maskulin laut LONERS-Regel.
+Estar für Gefühle (1. Pl.);Nosotros {{c1::estamos}} agradecidos por este día.;Wir sind dankbar für diesen Tag.;Nutze die 1. Person Plural von estar für ein gemeinsames Gefühl.;
+Estar für Orte (1. Pl.);{{c1::Estamos}} cerca de la meta.;Wir sind nah am Ziel.;Nutze die 1. Person Plural von estar für eine Position.;
+Estar für Gefühle (2. Pl.);Vosotros {{c1::estáis}} muy animados hoy.;Ihr seid heute sehr gut gelaunt/animiert.;Bilde die 2. Person Plural von estar. Denke an den Akzent!;
+Estar für Orte (2. Pl.);¿Vosotros {{c1::estáis}} en el jardín?;Seid ihr im Garten?;Bilde die Frage mit der 2. Person Plural von estar (estáis).;
+Estar für Gefühle (3. Pl.);Ellos {{c1::están}} entusiasmados con la idea.;Sie sind begeistert von der Idee.;Bilde die 3. Person Plural von estar. Denke an den Akzent!;
+Estar für Orte (3. Pl.);Las cartas {{c1::están}} sobre la mesa.;Die Briefe liegen auf dem Tisch.;Nutze die 3. Person Plural von estar für eine Ortsangabe.;Das deutsche liegen wird im Spanischen bei reinen Ortsangaben nicht übersetzt. Estar reicht völlig aus.
+Estar für Höflichkeit (Sg.);¿Usted {{c1::está}} de acuerdo?;Sind Sie (Sg. höflich) einverstanden?;Nutze die Form für usted (está) für einen aktuellen Zustand.;Estar de acuerdo ist die feste spanische Wendung für einverstanden sein.
+Estar für Höflichkeit (Pl.);Ustedes {{c1::están}} a salvo aquí.;Sie (Pl. höflich) sind hier in Sicherheit.;Nutze die Form für ustedes (están) für einen Zustand.;A salvo sein bedeutet in Sicherheit sein.
+Estar Zustand von Sachen;La sopa {{c1::está}} deliciosa.;Die Suppe schmeckt köstlich (ist gerade köstlich).;Nutze la sopa mit der 3. Person von estar für den aktuellen Geschmack.;
+Estar Zustand von Sachen;El camino {{c1::está}} libre.;Der Weg ist frei.;Nutze die 3. Person von estar für den Zustand des Weges.;Das Wort camino (Weg) ist maskulin laut LONERS-Regel.
+Estar Zustand von Sachen;Las luces {{c1::están}} encendidas.;Die Lichter sind eingeschaltet/an.;Nutze den Plural están passend zu las luces.;Hier greift auch wieder deine gelernte Plural-Besonderheit von -z zu -ces (luces).
+Estar Zustand von Sachen;El documento {{c1::está}} listo.;Das Dokument ist fertig/bereit.;Nutze está für den Zustand des Dokuments.;Listo bedeutet mit estar fertig oder bereit mit ser hingegen intelligent.
+Estar Zustand von Sachen;La bicicleta {{c1::está}} rota.;Das Fahrrad ist kaputt.;Nutze die 3. Person von estar für den Zustand des Fahrrads.;
+Negation vor Estar;No {{c1::estoy}} seguro todavía.;Ich bin mir noch nicht sicher.;Das no steht starr vor der 1. Person von estar (estoy).;Hier greift deine Pareto-Regel 12: Die Verneinung steht starr direkt vor dem konjugierten Verb.
+Negation vor Estar;El hotel no {{c1::está}} lejos.;Das Hotel ist nicht weit weg.;Das no steht starr vor der 3. Person von estar (está).;Entfernungen werden im Spanischen immer mit estar ausgedrückt.
+Negation vor Estar;Las ventanas no {{c1::están}} sucias.;Die Fenster sind nicht schmutzig.;Das no steht starr vor der 3. Person Plural von estar (están).;
+Optimistischer Zustand;Tu mente {{c1::está}} llena de grandes sueños.;Dein Verstand ist voller großer Träume.;Nutze die 3. Person von estar (está) für das Adjektiv llena (voll).;Das Wort mente (Verstand) ist feminin weshalb das Adjektiv llena auf -a endet.
+Optimistischer Zustand;El éxito {{c1::está}} al alcance de tu mano.;Der Erfolg ist in deiner Reichweite.;Nutze die 3. Person von estar (está) für eine Position. Denke an die Verschmelzung al!;Hier siehst du auch la mano: Endet auf -o ist aber weiblich!
+Optimistischer Zustand;Nuestros corazones {{c1::están}} llenos de paz.;Unsere Herzen sind voller Frieden.;Nutze den Plural están passend zu nuestros corazones.;
+Optimistischer Zustand;La ciudad {{c1::está}} hermosa esta noche.;Die Stadt sieht heute Abend wunderschön aus.;Nutze está für den aktuellen Zustand der Stadt im Moment.;
+Estar in einer Frage;¿{{c1::Estás}} de buen humor hoy?;Bist du heute guter Laune?;Bilde die Frage für du mit der passenden Form von estar (estás).;Estar de buen humor ist die feste Wendung für guter Laune sein.
+Estar in einer Frage;¿Dónde {{c1::está}} mi amigo?;Wo ist mein Freund?;Nutze das Fragewort dónde + die 3. Person Singular von estar (está).;
+Estar Höflichkeit im Plural;Ustedes {{c1::están}} muy bien preparados.;Sie (Pl. höflich) sind sehr gut vorbereitet.;Hilfsverb están vor dem Adjektiv preparados für die Höflichkeitsform im Plural.;
+Vorübergehender Zustand;El agua {{c1::está}} tibia hoy.;Das Wasser ist heute lau/warm.;Nutze está für den aktuellen Temperaturzustand des Wassers.;Erinnerst du dich an el agua? Nutzt el wegen der Aussprache ist aber weiblich. Deswegen heißt es tibia.
+Vorübergehender Zustand;La comida del hotel {{c1::está}} excelente.;Das Essen des Hotels ist exzellent.;Nutze está für den aktuellen Zustand des Essens. Denke an den Genitiv del!;
+Vorübergehender Zustand;Tus manos {{c1::están}} limpias.;Deine Hände sind sauber.;Nutze den Plural están passend zu las manos.;
+Ortsangabe mit Präposition;El autobús {{c1::está}} detrás de la estación.;Der Bus steht hinter dem Bahnhof.;Nutze está für die Position des Busses. Getrennte Form de la beachten!;
+Ortsangabe mit Präposition;La oficina {{c1::está}} al lado del parque.;Das Büro ist neben dem Park.;Nutze está für die Ortsangabe. Denke an die Verschmelzung del!;
+Estar Zustand von Sachen;La ropa {{c1::está}} seca.;Die Kleidung ist trocken.;Nutze die 3. Person von estar für den Zustand der Kleidung.;
+Estar Zustand von Sachen;El examen {{c1::está}} terminado.;Die Prüfung ist beendet.;Nutze está für den Zustand der Prüfung.;Das Nomen examen ist maskulin laut LONERS-Regel.
+Estar Zustand von Sachen;Los problemas {{c1::están}} resueltos.;Die Probleme sind gelöst.;Nutze den Plural están passend zu los problemas.;Erinnerst du dich an den -matic-Hack? Problema ist maskulin (los problemas).
+Optimistischer Zustand;El cielo {{c1::está}} completamente claro.;Der Himmel ist völlig klar.;Nutze está für das aktuelle Wetter.;
+Optimistischer Zustand;La vida {{c1::está}} llena de sorpresas hermosas.;Das Leben ist voller schöner Überraschungen.;Nutze está für das Adjektiv llena (voll) bezogen auf la vida.;
+Optimistischer Zustand;Nuestras soluciones {{c1::están}} funcionando bien.;Unsere Lösungen funktionieren gut.;Nutze den Plural están vor dem Gerundium funcionando für einen laufenden Prozess.;

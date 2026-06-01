@@ -1,0 +1,65 @@
+main_topic;cloze_test;translation;hint;extra
+Das neutrale Lo;Lo {{c1::bueno}} del libro es el final.;Das Gute an dem Buch ist das Ende.;Nutze das maskuline Adjektiv bueno nach dem neutralen lo um das abstrakte Substantiv das Gute zu bilden.;Das neutrale lo fordert immer die männliche Grundform des Adjektivs im Singular.
+Das neutrale Lo;Lo {{c1::mejor}} del viaje es el sol.;Das Beste an der Reise ist die Sonne.;Nutze lo zusammen mit der unregelmäßigen Steigerung mejor (besser/beste) für das Beste.;Hier siehst du auch wieder die Genitiv-Besitzanzeige del (de + el).
+Das neutrale Lo;Lo {{c1::importante}} es sonreír hoy.;Das Wichtige ist es heute zu lächeln.;Nutze das unveränderliche Adjektiv importante nach dem Wort lo.;Adjektive auf -e verändern sich für das neutrale lo optisch nicht.
+Das neutrale Lo;Lo {{c1::hermoso}} de la vida está aquí.;Das Schöne am Leben ist hier.;Bilde das abstrakte Substantiv das Schöne mit lo und dem Adjektiv hermoso.;
+Das neutrale Lo;Lo {{c1::interesante}} es aprender rápido.;Das Interessante ist es schnell zu lernen.;Nutze das Adjektiv interesante nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::difícil}} ya pasó.;Das Schwierige ist schon vorbei.;Nutze das unveränderliche Konsonanten-Adjektiv difícil nach dem Wort lo.;
+Das neutrale Lo;Lo {{c1::nuevo}} siempre trae alegría.;Das Neue bringt immer Freude.;Bilde das abstrakte Substantiv das Neue mit lo und dem Adjektiv nuevo.;
+Das neutrale Lo;Lo {{c1::verdadero}} es el amor.;Das Wahre ist die Liebe.;Nutze das Adjektiv verdadero nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::malo}} quedó en el pasado.;Das Schlechte blieb in der Vergangenheit.;Nutze das Adjektiv malo nach dem neutralen lo.;Hier siehst du das Indefinido (quedó) für eine abgeschlossene Vergangenheit.
+Das neutrale Lo;Lo {{c1::curioso}} es que Carlos tiene el libro.;Das Kurioswichtige/Seltsame ist dass Carlos das Buch hat.;Nutze das Adjektiv curioso nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::sorprendente}} es el gran éxito.;Das Überraschende ist der große Erfolg.;Nutze das Adjektiv sorprendente nach dem neutralen lo.;Erfolg (éxito) ist maskulin laut LONERS-Regel.
+Das neutrale Lo;Lo {{c1::perfecto}} no existe.;Das Perfekte existiert nicht.;Bilde das abstrakte Substantiv das Perfekte mit lo und dem Adjektiv perfecto.;
+Das neutrale Lo;Lo {{c1::claro}} de tu respuesta me ayuda.;Das Klare an deiner Antwort hilft mir.;Nutze das Adjektiv claro nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::grato}} de este día es tu visita.;Das Angenehme an diesem Tag ist dein Besuch.;Nutze das Adjektiv grato nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::fantástico}} está por venir.;Das Fantastische steht noch bevor (kommt noch).;Bilde das abstrakte Substantiv das Fantastische mit lo und dem Adjektiv fantástico.;
+Das neutrale Lo;Lo {{c1::único}} que quiero es paz.;Das Einzige was ich will ist Frieden.;Nutze das Adjektiv único nach dem neutralen lo vor dem Relativsatz-que.;Lo único que ist die feste spanische Wendung für das Einzige was.
+Das neutrale Lo;Lo {{c1::principal}} es mantener la calma.;Das Hauptsächliche/Wichtigste ist es die Ruhe zu bewahren.;Nutze das Konsonanten-Adjektiv principal nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::seguro Genero}} es que vamos a ganar.;Das Sichere ist dass wir gewinnen werden.;Nutze das Adjektiv seguro nach dem neutralen lo vor dem periphrastischen Futur.;
+Das neutrale Lo;Lo {{c1::divertido}} es celebrar juntos.;Das Amüsante/Lustige ist es zusammen zu feiern.;Nutze das Adjektiv divertido nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::fácil}} no siempre es lo mejor.;Das Leichte ist nicht immer das Beste.;Bilde das abstrakte Substantiv das Leichte mit lo und dem Adjektiv fácil.;Hier siehst du lo gleich doppelt: lo fácil (das Leichte) und lo mejor (das Beste).
+Das neutrale Lo;No me importa lo {{c1::difícil}}.;Das Schwierige ist mir nicht wichtig (macht mir nichts aus).;Setze das neutrale lo-Paket hinter das bekannte verneinte Gustar-Verb (importar).;Hier greift perfekt dein gelerntes Satzmuster 19 (psychologische Verben).
+Das neutrale Lo;Espero que veas lo {{c1::bueno}}.;Ich hoffe dass du das Gute siehst.;Setze das neutrale lo-Paket hinter das bekannte Subjunktiv-Verb (veas).;Hier greift dein gelerntes Satzmuster 17 (Subjunktiv nach espero que).
+Das neutrale Lo;Ayer supe lo {{c1::esencial}}.;Gestern habe ich das Wesentliche erfahren.;Setze das neutrale lo-Paket hinter das unregelmäßige Indefinido-Verb (supe).;Hier greift dein gelerntes Satzmuster 14 (Indefinido für punktuelle Vergangenheit).
+Das neutrale Lo;Usted comprende lo {{c1::necesario}}.;Sie (Sg. höflich) verstehen das Notwendige.;Setze das neutrale lo-Paket hinter das bekannte Höflichkeitsverb (comprende).;Hier greift dein gelerntes Satzmuster 18 (Höflichkeitsform).
+Das neutrale Lo;¿Sabes lo {{c1::nuevo}}?;Weißt du das Neue?;Setze das neutrale lo-Paket in eine bekannte Fragesatz-Struktur (Satzmuster 7).;
+Das neutrale Lo;Lo {{c1::agradable}} de la música me encanta.;Das Angenehme an der Musik liebe ich.;Bilde das abstrakte Substantiv das Angenehme mit lo und dem Adjektiv agradable.;Hier siehst du auch das psychologische Verb encantar aus Satzmuster 19.
+Das neutrale Lo;Lo {{c1::extraño}} quedó atrás.;Das Seltsame blieb zurück.;Nutze das Adjektiv extraño nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::lindo}} de tu gata es su color.;Das Schöne an deiner Katze ist ihre Farbe.;Bilde das abstrakte Substantiv das Schöne mit lo und dem Adjektiv lindo.;
+Das neutrale Lo;Lo {{c1::positivo}} siempre gana.;Das Positive gewinnt immer.;Nutze das Adjektiv positivo nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::bello}} de la naturaleza es gratis.;Das Schöne an der Natur ist gratis.;Nutze das maskuline Adjektiv bello nach dem neutralen lo um das abstrakte Substantiv das Schöne zu bilden.;
+Das neutrale Lo;Lo {{c1::increíble}} de tu historia me motiva.;Das Unglaubliche an deiner Geschichte motiviert mich.;Nutze das unveränderliche Adjektiv increíble nach dem Wort lo.;Adjektive auf -e verändern sich für das neutrale lo optisch nicht.
+Das neutrale Lo;Lo {{c1::útil}} de este curso es la práctica.;Das Nützliche an diesem Kurs ist die Praxis.;Nutze das Konsonanten-Adjektiv útil nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::esencial}} es invisible a los ojos.;Das Wesentliche ist für die Augen unsichtbar.;Bilde das abstrakte Substantiv das Wesentliche mit lo und dem Adjektiv esencial.;
+Das neutrale Lo;Lo {{c1::curioso}} de la vida es aprender.;Das Kurioswichtige/Seltsame am Leben ist das Lernen.;Nutze das Adjektiv curioso nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::extraordinario}} ocurre todos los días.;Das Außergewöhnliche geschieht jeden Tag.;Bilde das abstrakte Substantiv das Außergewöhnliche mit lo und dem Adjektiv extraordinario.;
+Das neutrale Lo;Lo {{c1::maravilloso}} de los amigos es la lealtad.;Das Wunderbare an Freunden ist die Loyalität.;Nutze das Adjektiv maravilloso nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::valioso}} del tiempo es que no vuelve.;Das Wertvolle an der Zeit ist dass sie nicht zurückkehrt.;Nutze das Adjektiv valioso nach dem neutralen lo.;Denke an die Genitiv-Verschmelzung del bei del tiempo.
+Das neutrale Lo;Lo {{c1::seguro}} es que el sol va a brillar.;Das Sichere ist dass die Sonne scheinen wird.;Nutze das Adjektiv seguro nach dem neutralen lo vor dem periphrastischen Futur.;Hier siehst du das periphrastische Futur aus Satzmuster 11 im Einsatz.
+Das neutrale Lo;Lo {{c1::lógico}} es buscar una alternativa.;Das Logische ist es eine Alternative zu suchen.;Nutze das Adjektiv lógico nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::interesante}} del proyecto es la innovación.;Das Interessante an dem Projekt ist die Innovation.;Nutze das Adjektiv interesante nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::fácil}} ya está terminado.;Das Leichte ist schon fertiggestellt.;Bilde das abstrakte Substantiv das Leichte mit lo und dem Adjektiv fácil.;
+Das neutrale Lo;Lo {{c1::divertido}} de la fiesta fue la música.;Das Lustige an der Party war die Musik.;Nutze das Adjektiv divertido nach dem neutralen lo.;Hier siehst du das Indefinido von ser (fue) für die abgeschlossene Vergangenheit.
+Das neutrale Lo;Lo {{c1::importante}} de tus metas ist que son tuyas.;Das Wichtige an deinen Zielen ist dass es deine sind.;Nutze das Adjektiv importante nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::malo}} sirve para aprender.;Das Schlechte dient dazu zu lernen.;Nutze das Adjektiv malo nach dem neutralen lo vor dem Zweck-para.;Hier greift auch das gelernte por/para-Muster 23 perfekt.
+Das neutrale Lo;Lo {{c1::bueno}} siempre supera a lo malo.;Das Gute besiegt (übertrifft) immer das Schlechte.;Bilde das abstrakte Substantiv das Gute mit lo und dem Adjektiv bueno.;Hier siehst du das persönliche a vor lo malo da es personifiziert übertroffen wird.
+Das neutrale Lo;Lo {{c1::triste}} quedó en el pasado.;Das Traurige blieb in der Vergangenheit.;Nutze das Adjektiv triste nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::grato}} de este viaje es tu compañía.;Das Angenehme an dieser Reise ist deine Begleitung.;Nutze das Adjektiv grato nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::único}} que necesito es tu ayuda.;Das Einzige was ich brauche ist deine Hilfe.;Nutze das Adjektiv único nach dem neutralen lo vor dem Relativsatz-que.;Lo único que ist die feste spanische Wendung für das Einzige was.
+Das neutrale Lo;Lo {{c1::principal}} de la reunión fue el acuerdo.;Das Hauptsächliche/Wichtigste des Treffens war die Vereinbarung.;Nutze das Konsonanten-Adjektiv principal nach dem neutralen lo.;
+Das neutrale Lo;No pienses en lo {{c1::negativo}}.;Denke nicht an das Negative.;Das no steht links vor dem Imperativ pienses. Setze das neutrale lo-Paket ans Ende.;Hier siehst du einen verneinten Imperativ aus Satzmuster 18 gekoppelt mit dem neutralen lo.
+Das neutrale Lo;Espero que entiendas lo {{c1::esencial}}.;Ich hoffe dass du das Wesentliche verstehst.;Setze das neutrale lo-Paket hinter das bekannte Subjunktiv-Verb (entiendas).;Hier greift dein gelerntes Satzmuster 17 (Subjunktiv nach espero que).
+Das neutrale Lo;Ayer comprendí lo {{c1::importante}}.;Gestern habe ich das Wichtige verstanden.;Setze das neutrale lo-Paket hinter das regelmäßige Indefinido-Verb (comprendí).;Hier greift dein gelerntes Satzmuster 14 (Indefinido für punktuelle Vergangenheit).
+Das neutrale Lo;Usted ya sabe lo {{c1::necesario}}.;Sie (Sg. höflich) wissen schon das Notwendige.;Setze das neutrale lo-Paket hinter das bekannte Höflichkeitsverb (sabe).;Hier greift dein gelerntes Satzmuster 18 (Höflichkeitsform).
+Das neutrale Lo;¿Puedes ver lo {{c1::bonito}} de este día?;Kannst du das Schöne an diesem Tag sehen?;Setze das neutrale lo-Paket in eine bekannte Fragesatz-Struktur (Satzmuster 7).;
+Das neutrale Lo;Lo {{c1::agradable}} de la comida me encanta.;Das Angenehme an dem Essen liebe ich.;Bilde das abstrakte Substantiv das Angenehme mit lo und dem Adjektiv agradable.;Hier siehst du auch das psychologische Verb encantar aus Satzmuster 19.
+Das neutrale Lo;Lo {{c1::raro}} de la situación cambió rápido.;Das Seltsame an der Situation veränderte sich schnell.;Nutze das Adjektiv raro nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::hermoso}} de tu gata son sus ojos.;Das Schöne an deiner Katze sind ihre Augen.;Bilde das abstrakte Substantiv das Schöne mit lo und dem Adjektiv hermoso.;
+Das neutrale Lo;Lo {{c1::positivo}} de tus ideas me gusta.;Das Positive an deinen Ideen gefällt mir.;Nutze das Adjektiv positivo nach dem neutralen lo.;Hier siehst du auch das psychologische Verb gustar aus Satzmuster 19.
+Das neutrale Lo;No me importa lo {{c1::difícil}} del camino.;Das Schwierige an dem Weg ist mir nicht wichtig.;Setze das neutrale lo-Paket hinter das bekannte verneinte Gustar-Verb (importar).;
+Das neutrale Lo;Lo {{c1::perfecto}} es enemigo de lo bueno.;Das Perfekte ist der Feind des Guten.;Bilde das abstrakte Substantiv das Perfekte mit lo und dem Adjektiv perfecto.;Hier siehst du lo gleich doppelt: lo perfecto und lo bueno.
+Das neutrale Lo;Lo {{c1::real}} es lo que importa.;Das Reale ist das was zählt (wichtig ist).;Nutze das Adjektiv real nach dem neutralen lo.;Lo que bedeutet im Spanischen das was.
+Das neutrale Lo;Lo {{c1::claro}} de tu explicación me ayudó.;Das Klare an deiner Erklärung hat mir geholfen.;Nutze das Adjektiv claro nach dem neutralen lo.;
+Das neutrale Lo;Lo {{c1::fantástico}} de la vida está en los detalles.;Das Fantastische am Leben liegt in den Details.;Bilde das abstrakte Substantiv das Fantastische mit lo und dem Adjektiv fantástico.;
+Das neutrale Lo;Lo {{c1::malo}} ya pasó y viene lo mejor.;Das Schlechte ist schon vorbei und das Beste kommt.;Nutze das Adjektiv malo nach dem neutralen lo.;Hier siehst du lo malo (das Schlechte) und lo mejor (das Beste) in einem Satz.

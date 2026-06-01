@@ -1,0 +1,31 @@
+main_topic;cloze_test;translation;hint;extra
+Gerundium auf -iendo;Estoy {{c1::leyendo}} el libro.;Ich lese das Buch gerade.;Bilde das unregelmäßige Gerundium von leer (lesen).;Bei Verben wie leer wandelt sich das i zwischen zwei Vokalen in ein y um (leyendo).
+Gerundium auf -ando;Estamos {{c1::hablando}} con Carlos.;Wir sprechen gerade mit Carlos.;Bilde das regelmäßige Gerundium auf -ar für das Verb hablar (sprechen).;Das Gerundium drückt immer Handlungen aus die exakt in diesem Moment ablaufen.
+Gerundium auf -iendo;¿Qué estás {{c1::haciendo}}?;Was machst du gerade?;Bilde das Gerundium auf -er für das unregelmäßige Verb hacer (machen/tun).;
+Gerundium auf -ando;Ella está {{c1::disfrutando}} del día.;Sie genießt gerade den Tag.;Bilde das Gerundium auf -ar für das Verb disfrutar (genießen).;
+Gerundium auf -iendo;Ellos están {{c1::viviendo}} un gran momento.;Sie erleben (wohnen/leben) gerade einen großen Moment.;Bilde das Gerundium auf -ir für das Verb vivir (leben/wohnen).;
+Gerundium auf -ando;Tú estás {{c1::mejorando}} cada día.;Du verbesserst dich gerade jeden Tag.;Bilde das Gerundium auf -ar für das Verb mejorar (verbessern).;Ein wunderbar optimistischer Satz für deinen Lernerfolg!
+Gerundium auf -iendo;Estamos {{c1::aprendiendo}} español rápido.;Wir lernen gerade schnell Spanisch.;Bilde das Gerundium auf -er für das Verb aprender (lernen).;
+Gerundium auf -ando;Él está {{c1::trabajando}} en su proyecto.;Er arbeitet gerade an seinem Projekt.;Bilde das Gerundium auf -ar für das Verb trabajar (arbeiten).;
+Gerundium auf -iendo;Usted está {{c1::escribiendo}} un mensaje.;Sie (Sg. höflich) schreiben gerade eine Nachricht.;Bilde das Gerundium auf -ir für das Verb escribir (schreiben).;
+Gerundium auf -ando;Los niños están {{c1::jugando}} en el jardín.;Die Kinder spielen gerade im Garten.;Bilde das Gerundium auf -ar für das Verb jugar (spielen).;Jugar verliert im Gerundium seinen Diphtong (jugando statt juegando).
+Gerundium mit Pronomen hinten;Estoy {{c1::leyéndolo}}.;Ich lese es (das Buch) gerade.;Hänge das Akkusativpronomen lo direkt an das Ende des Gerundiums an. Denke an den Akzent!;Wenn man Pronomen an das Gerundium anhängt wandert die Betonung nach hinten weshalb ein schriftlicher Akzent Pflicht wird (leyéndolo).
+Gerundium mit Pronomen vorne;Lo estoy {{c1::leyendo}}.;Ich lese es (das Buch) gerade.;Das Pronomen lo steht bereits ganz vorne. Ergänze das reine Gerundium leyendo.;Wie beim Futur hast du auch beim Gerundium die freie Wahl: Pronomen ganz nach vorne vor estar ODER fest hinten ans Gerundium geklebt.
+Gerundium mit Pronomen hinten;Estamos {{c1::buscándola}}.;Wir suchen sie (la llave) gerade.;Hänge das feminine Pronomen la an das Gerundium von buscar (suchen) an. Denke an den Akzent!;Die Form la bezieht sich glasklar auf eine weibliche Sache aus dem Kontext.
+Gerundium mit Pronomen vorne;La estamos {{c1::buscando}}.;Wir suchen sie (la llave) gerade.;Das feminine Pronomen la steht bereits vorne. Ergänze das reine Gerundium buscando.;
+Gerundium mit Dativpronomen;Él está {{c1::ayudándome}}.;Er hilft mir gerade.;Hänge das Dativpronomen me (mir) hinten an das Gerundium von ayudar an. Denke an den Akzent!;
+Gerundium mit doppelten Pronomen hinten;Estamos {{c1::escribiéndoselo}} a él.;Wir schreiben es ihm gerade.;Hänge se + lo an das lange Gerundium von escribir an. Denke an den Akzent auf dem é!;Durch zwei angehängte Pronomen wird das Wort extrem lang. Der Akzent rettet die korrekte Betonung.
+Gerundium mit doppelten Pronomen vorne;Se lo estamos {{c1::escribiendo}} a él.;Wir schreiben es ihm gerade.;Die Pronomen se lo stehen bereits vorne. Ergänze das reine Gerundium von escribir.;Stehen die Pronomen vor dem Hilfsverb entfällt der schriftliche Akzent auf dem Gerundium vollständig.
+Gerundium mit doppelten Pronomen hinten;Él está {{c1::mostrándoselas}} a ellas.;Er zeigt sie (las fotos) ihnen (den Frauen) gerade.;Hänge se + las an das Gerundium von mostrar an. Denke an den Akzent auf dem á!;
+Gerundium mit doppelten Pronomen vorne;Se las está {{c1::mostrando}} a ellas.;Er zeigt sie (las fotos) ihnen (den Frauen) gerade.;Die Pronomen se las stehen bereits vorne. Ergänze das reine Gerundium von mostrar.;
+Optimistisches Gerundium;El sol está {{c1::brillando}} hoy.;Die Sonne scheint (leuchtet) gerade heute.;Bilde das Gerundium auf -ar für das Verb brillar (scheinen/leuchten).;
+Optimistisches Gerundium;Estamos {{c1::celebrando}} el éxito.;Wir feiern gerade den Erfolg.;Bilde das Gerundium auf -ar für das Verb celebrar (feiern).;
+Optimistisches Gerundium;La vida está {{c1::cambiando}} para bien.;Das Leben verändert sich gerade zum Guten.;Bilde das Gerundium auf -ar für das Verb cambiar (verändern/wechseln).;
+Optimistisches Gerundium;Mis amigos están {{c1::viniendo}} ahora.;Meine Freunde kommen gerade jetzt.;Bilde das unregelmäßige Gerundium für das Verb venir (kommen).;Venir ändert im Gerundium seinen Stammvokal von e zu i (viniendo).
+Optimistisches Gerundium;Ustedes están {{c1::creando}} un gran futuro.;Sie (Pl. höflich) erschaffen gerade eine große Zukunft.;Bilde das Gerundium auf -ar für das Verb crear (erschaffen/kreieren).;
+Verneintes Gerundium;No estoy {{c1::perdiendo}} el tiempo.;Ich verliere gerade keine Zeit.;Setze das Gerundium auf -er für das Verb perder (verlieren) nach der Verneinung ein.;Auch beim Gerundium gilt deine Pareto-Regel 12: Das no steht ganz starr vor dem konjugierten Hilfsverb (no estoy).
+Verneintes Gerundium;Ella no está {{c1::sufriendo}}.;Sie leidet gerade nicht.;Bilde das Gerundium auf -ir für das Verb sufrir (leiden).;
+Gerundium in einer Frage;¿Estás {{c1::escuchando}} la música?;Hörst du gerade die Musik?;Bilde die Frage im Gerundium für du mit dem Verb escuchar (zuhören/hören).;
+Gerundium mit Ortsangabe;Estamos {{c1::viajando}} por España.;Wir reisen gerade durch Spanien.;Bilde das Gerundium auf -ar für das Verb viajar (reisen).;
+Gerundium mit Dativ-Klarstellung;Estoy {{c1::hablándole}} a ella.;Ich spreche gerade mit ihr.;Hänge das Pronomen le an das Gerundium von hablar an und setze die Klarstellung (a ella) ans Ende.;
+Gerundium Höflichkeit Plural;Ustedes están {{c1::sonriendo}} mucho.;Sie (Pl. höflich) lächeln gerade viel.;Bilde das Gerundium für das Verb sonreír (lächeln).;Sonreír verliert im Gerundium ein e (sonriendo statt sonreiendo).

@@ -14,7 +14,7 @@ PACKAGE_ROOT = ORDNER_SRC.parent  # generator-app/
 class AnkiModelConfig(BaseModel):
     model_id: int = Field(..., gt=0)
     model_name: str = Field(..., min_length=3)
-    fields: list[str] = Field(..., min_items=1)
+    fields: list[str] = Field(..., min_length=1)
     template_dir: DirectoryPath
     template_name: str
     is_cloze: bool = True

@@ -1,0 +1,31 @@
+main_topic;cloze_test;translation;hint;extra
+Starrheit der Negation;No {{c1::puedo}} leer el libro.;Ich kann das Buch nicht lesen.;Das Verneinungswort no steht starr vor dem konjugierten Hilfsverb puedo.;Das no weicht im normalen Hauptsatz niemals von seiner Position direkt vor dem konjugierten Verb ab.
+Starrheit der Negation;Yo no {{c1::tengo}} el problema.;Ich habe das Problem nicht.;Das Subjekt Yo steht ganz vorne. Das no muss direkt vor dem konjugierten Verb tengo stehen.;Hier siehst du den Unterschied zum Deutschen: Das Subjekt darf das no nicht vom Verb trennen.
+Starrheit der Negation;No {{c1::quiero}} perder el tiempo.;Ich will die Zeit nicht verlieren.;Setze das verneinte Verb in der 1. Person Singular von querer (wollen) ein.;
+Starrheit der Negation;Tú no {{c1::sabes}} la respuesta.;Du weißt die Antwort nicht.;Das Subjekt Tú steht vorne. Setze die verneinte Form von saber (wissen) ein.;
+Starrheit der Negation;No {{c1::debemos}} olvidar la idea.;Wir dürfen die Idee nicht vergessen.;Nutze die verneinte Form von deber (müssen/sollen) für wir.;
+Starrheit der Negation;Nosotros no {{c1::vamos}} a la playa.;Wir gehen nicht an den Strand.;Setze das verneinte Verb der Bewegung für wir (ir -> vamos) ein.;
+Starrheit der Negation;Ellos no {{c1::viven}} aquí.;Sie wohnen nicht hier.;Bilde die Verneinung für die 3. Person Plural von vivir (wohnen).;
+Negation mit Pronomen vorne;No lo {{c1::sé}}.;Ich weiß es nicht.;Das Pronomen lo steht zwischen no und dem konjugierten Verb. Ergänze die 1. Person von saber.;Eiserne Strukturregel bei Pronomen: no + Pronomen + konjugiertes Verb. Das no rückt nach ganz links.
+Negation mit Pronomen vorne;No la {{c1::compro}}.;Ich kaufe sie (la casa) nicht.;Das weibliche Objektpronomen la steht zwischen no und dem Verb. Ergänze ich kaufe (comprar).;
+Negation mit Pronomen vorne;No me {{c1::gusta}} la sopa.;Ich mag die Suppe nicht (Die Suppe gefällt mir nicht).;Das Dativpronomen me steht zwischen no und dem Verb gusta.;Bei gustar ist die Suppe das Subjekt weshalb das Verb in der 3. Person Singular steht.
+Negation mit Pronomen vorne;No te {{c1::veo}}.;Ich sehe dich nicht.;Das Akkusativpronomen te steht nach dem no. Ergänze das konjugierte Verb veo (sehen).;
+Negation mit Pronomen vorne;No nos {{c1::ayudan}}.;Sie helfen uns nicht.;Das Pronomen nos (uns) steht nach dem no. Ergänze die 3. Person Plural von ayudar.;
+Negation mit doppelten Pronomen;No se lo {{c1::doy}} a Carlos.;Ich gebe es Carlos nicht (Ich gebe es ihm nicht).;Die Pronomenkette se lo steht nach dem no. Ergänze das konjugierte Verb doy (geben).;Die eiserne Reihenfolge bleibt perfekt erhalten: no + Dativ + Akkusativ + Verb.
+Negation mit doppelten Pronomen;No se las {{c1::traemos}} a ella.;Wir bringen sie (las llaves) ihr nicht.;Die Pronomen se las stehen nach dem no. Ergänze das Verb traemos (bringen).;
+Negation mit doppelten Pronomen;No me lo {{c1::dices}}.;Du sagst es mir nicht.;Die Pronomen me lo stehen nach dem no. Ergänze das konjugierte Verb dices (sagen).;
+Negation mit doppelten Pronomen;No nos la {{c1::venden}}.;Sie verkaufen sie (la moto) uns nicht.;Die Pronomen nos la stehen nach dem no. Ergänze das Verb venden (verkaufen).;
+Negation im Futur vorne;No lo voy a {{c1::hacer}}.;Ich werde es nicht tun/machen.;Das Pronomen steht vor dem Hilfsverb. Ergänze den reinen Infinitiv von hacer.;Wenn das Pronomen vor dem Hilfsverb steht umschließt das no das gesamte Pronomen-Verb-Paket.
+Negation im Futur hinten;No voy a {{c1::hacerlo}}.;Ich werde es nicht tun/machen.;Das Pronomen lo ist hinten an den Infinitiv angehängt. Ergänze die Kombination aus Infinitiv + lo.;Auch hier steht das no ganz starr vor dem konjugierten Hilfsverb voy.
+Negation im Futur vorne;No se lo vamos a {{c1::enviar}}.;Wir werden es ihnen nicht schicken.;Die doppelten Pronomen stehen vorne. Ergänze den Infinitiv von enviar (schicken).;
+Negation im Futur hinten;No vamos a {{c1::enviárselo}}.;Wir werden es ihnen nicht schicken.;Die doppelten Pronomen hängen hinten am Infinitiv. Ergänze den Infinitiv inklusive se + lo und Akzent.;
+Optimistischer verneinter Satz;No hay {{c1::límites}} para el éxito.;Es gibt keine Grenzen für den Erfolg.;Ergänze das maskuline Pluralnomen für Grenzen (límites).;Das unpersönliche hay bedeutet es gibt und bleibt in der Verneinung starr (no hay).
+Optimistischer verneinter Satz;No está {{c1::lejos}} la solución.;Die Lösung ist nicht weit.;Nutze das passende Adverb für weit (lejos) nach dem Verb está.;Für Entfernungen und Orte nutzt das Spanische immer estar.
+Optimistischer verneinter Satz;No son {{c1::caros}} los buenos momentos.;Die guten Momente sind nicht teuer.;Ergänze das maskuline Pluraladjektiv caros passend zu momentos.;
+Optimistischer verneinter Satz;El sol no {{c1::deja}} de brillar.;Die Sonne hört nicht auf zu scheinen.;Nutze die 3. Person von dejar im Ausdruck dejar de + Infinitiv (aufhören etwas zu tun).;
+Optimistischer verneinter Satz;No pasa {{c1::nada}} malo hoy.;Es passiert heute nichts Schlechtes.;Ergänze das Wort für nichts (nada) nach dem konjugierten Verb pasa.;Wenn nada nach dem Verb steht verlangt das Spanische zwingend ein zusätzliches no vor dem Verb (doppelte Verneinung).
+Verneinte Frage;¿No {{c1::vienes}} con nosotros?;Kommst du nicht mit uns?;Bilde die verneinte Frage für du mit dem Verb venir (kommen).;Bei verneinten Fragen steht das no ebenfalls starr vor dem konjugierten Verb.
+Verneinte Frage;¿No se lo {{c1::has}} dicho?;Hast du es ihm nicht gesagt?;Bilde die verneinte Frage im Perfekt. Das Hilfsverb has steht nach der Pronomenkette.;Im Perfekt umschließt die Verneinung no das gesamte Paket aus Pronomen und dem Hilfsverb haber.
+Höflichkeit in der Negation;Usted no {{c1::necesita}} preocuparse.;Sie (Sg. höflich) brauchen sich nicht zu sorgen.;Nutze die verneinte Form von necesitar (brauchen/müssen) für usted.;
+Höflichkeit in der Negation;Ustedes no {{c1::pierden}} la esperanza.;Sie (Pl. höflich) verlieren die Hoffnung nicht.;Nutze die verneinte Form von perder (verlieren) für ustedes.;
+Negation mit Dativ-Klarstellung;No le {{c1::hablo}} a él hoy.;Ich spreche heute nicht mit ihm.;Ergänze das verneinte Verb hablo (ich spreche). Das Klarstellungssignal steht am Ende.;

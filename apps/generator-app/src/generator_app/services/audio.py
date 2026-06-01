@@ -11,13 +11,17 @@ logger = logging.getLogger(__name__)
 
 
 def clean_cloze_text(raw_text: str) -> str:
-    """Säubert den Anki-Lückentext für eine flüssige Sprachausgabe."""
-    # KORREKTUR: \* entfernt, damit exakt nach {{c1::...}} gesucht wird
-    # 1. Schritt: Entfernt eventuelle Anki-Tipps, z.B. {{c1::libro::Nomen}} -> {{c1::libro}}
-    text_without_hints = re.sub(r"\{\{c\d+::([^:]+)::[^}]+\}\}", r"\1", raw_text)
+    """
+    Säubert den Anki-Lückentext für eine flüssige Sprachausgabe.
+    Entfernt Hinweise und bricht verlässlich nicht bei mehreren Lücken aus.
+    """
+    # 1. Schritt: Entfernt Tipps/Hinweise, behält aber die Anki-Struktur für Schritt 2 bei.
+    # Macht aus: "El {{c1::libro::Nomen}} es rojo." -> "El {{c1::libro}} es rojo."
+    text_without_hints = re.sub(r"\{\{c(\d+)::([^{}:]+?)::[^}]+?\}\}", r"{{c\1::\2}}", raw_text)
     
-    # 2. Schritt: Holt das reine Wort aus den Klammern, z.B. {{c1::rojo}} -> rojo
-    clean_text = re.sub(r"\{\{c\d+::([^}]+)\}\}", r"\1", text_without_hints)
+    # 2. Schritt: Holt das reine Wort aus den verbliebenen Standard-Klammern heraus.
+    # Macht aus: "El {{c1::libro}} es rojo." -> "El libro es rojo."
+    clean_text = re.sub(r"\{\{c\d+::([^{}:]+?)\}\}", r"\1", text_without_hints)
     
     return clean_text.strip()
 

@@ -9,3 +9,5 @@ requires-python = ">=3.13"
 members = ["apps/*"]
 # uv run --package generator-app start-app
 # uv add --package generator-app pydantic-settings pyyaml
+# uv add --dev --package generator-app pytest
+# uv run pytest apps/generator-app/tests/

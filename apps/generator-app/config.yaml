@@ -14,4 +14,4 @@ source_mappings:
   spanish:
     model_key: "cloze_spanish_standard"
     output_filename: "Spanisch_Pareto_System.apkg"
-    generate_audio: false
+    generate_audio: true
