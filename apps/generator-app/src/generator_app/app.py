@@ -28,7 +28,7 @@ def run() -> None:
         settings = AppSettings(**config_data)
     except Exception as e:
         logging.error(f"Error while loading the configuration: {e}")
-    
+        return
     
     if not settings.file_configurations:
         logging.error("Keine passenden Konfigurationen gefunden. Abbruch.")

@@ -7,13 +7,14 @@ anki_models:
     fields: ["main_topic", "cloze_test", "translation", "hint", "extra","audio"]
     template_dir: "apps/generator-app/templates"
     template_name: "cloze_card"
+    template_lang: "de"
     is_cloze: true
 
 
 source_mappings:
   spanish:
     model_key: "cloze_spanish_standard"
-    output_filename: "Spanisch_Pareto_System.apkg"
+    output_filename: "Spanisch_Pareto_System_de.apkg"
     generate_audio: false
     edge_tts_voice: ""
     # edge_tts_voice: "es-ES-AlvaroNeural"

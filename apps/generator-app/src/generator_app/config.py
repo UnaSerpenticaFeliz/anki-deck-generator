@@ -4,6 +4,7 @@ from typing import Any
 import yaml
 from pydantic import BaseModel, Field, FilePath, DirectoryPath, model_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
+import logging
 
 DATEI = Path(__file__).resolve()  # config.py
 ORDNER_APP = DATEI.parent         # src/generator_app
@@ -145,10 +146,7 @@ class AppSettings(BaseSettings):
 
 
 def load_yaml_config(config_filename:str = "config.yaml") -> dict[str, Any]:
-    yaml_path = PACKAGE_ROOT / "config.yaml"
-
-    if not yaml_path.exists() and not config_filename == "config.yaml":
-        yaml_path = PACKAGE_ROOT / "configs" / config_filename
+    yaml_path = PACKAGE_ROOT / "configs" / config_filename
 
     if not yaml_path.exists():
         raise FileNotFoundError(
