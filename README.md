@@ -87,3 +87,8 @@ So your directory and filenames define your Subdeck-Names.
 
 ## Example: Creating your own APKG with own files
 ### Assuming you are a native English speaker who wants to learn French using cloze tests...
+
+
+### Where is the generated audio?
+### Where is the generated APKG-File?
+### Where do I have to put my own data directory?

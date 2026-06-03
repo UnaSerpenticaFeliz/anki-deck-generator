@@ -17,6 +17,7 @@ class AnkiModelConfig(BaseModel):
     fields: list[str] = Field(..., min_length=1)
     template_dir: DirectoryPath
     template_name: str
+    template_lang: str = Field(default="de")
     is_cloze: bool = True
 
 
@@ -46,17 +47,22 @@ class InputFileConfig(BaseModel):
     @property
     def is_cloze(self) -> bool: return self.model_details.is_cloze
 
+
+    @property
+    def _template_path(self) -> Path:
+        return self.model_details.template_dir / self.model_details.template_name / self.model_details.template_lang
+
     @property
     def css_content(self) -> str:
-        return (self.model_details.template_dir / f"{self.model_details.template_name}.css").read_text(encoding="utf-8")
+        return (self._template_path / "style.css").read_text(encoding="utf-8")
 
     @property
     def qfmt_content(self) -> str:
-        return (self.model_details.template_dir / f"{self.model_details.template_name}_qfmt.html").read_text(encoding="utf-8")
+        return (self._template_path / "qfmt.html").read_text(encoding="utf-8")
 
     @property
     def afmt_content(self) -> str:
-        return (self.model_details.template_dir / f"{self.model_details.template_name}_afmt.html").read_text(encoding="utf-8")
+        return (self._template_path / "afmt.html").read_text(encoding="utf-8")
 
 
 class AppSettings(BaseSettings):
@@ -138,12 +144,18 @@ class AppSettings(BaseSettings):
 
 
 
-def load_yaml_config() -> dict[str, Any]:
+def load_yaml_config(config_filename:str = "config.yaml") -> dict[str, Any]:
     yaml_path = PACKAGE_ROOT / "config.yaml"
+
+    if not yaml_path.exists() and not config_filename == "config.yaml":
+        yaml_path = PACKAGE_ROOT / "configs" / config_filename
+
     if not yaml_path.exists():
-        raise FileNotFoundError(f"Kritischer Fehler: 'config.yaml' nicht gefunden unter: {yaml_path}")
+        raise FileNotFoundError(
+            f"Kritischer Fehler: Konfiguration '{config_filename}' wurde weder im Hauptverzeichnis "
+            f"noch unter {PACKAGE_ROOT / 'configs/'} gefunden!"
+        )
+    
     with open(yaml_path, mode="r", encoding="utf-8") as f:
         return yaml.safe_load(f) or {}
 
-
-SETTINGS = AppSettings(**load_yaml_config())

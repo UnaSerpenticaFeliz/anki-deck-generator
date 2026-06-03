@@ -11,3 +11,4 @@ members = ["apps/*"]
 # uv add --package generator-app pydantic-settings pyyaml
 # uv add --dev --package generator-app pytest
 # uv run pytest apps/generator-app/tests/
+# uv run --package generator-app start-app --config config_de.yaml
